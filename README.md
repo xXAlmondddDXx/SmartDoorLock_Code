@@ -26,6 +26,6 @@ Door Status Detection - HC-SR04 Ultrasonic Sensor (via distance)
 
 Alarm - Piezobuzzer
 
-The main code of the project is the "Smart_Door_Lock_Fingerprint", kindly access it for an overview. The other file will be the sub-functions which has been embedded into the main code.
+The main code of the project is the 'Smart_Door_Lock_Fingerprint/Smart_Door_Lock_Fingerprint.ino', kindly access it for an overview. The other file will be the sub-functions which has been embedded into the main code.
 
 I hope you like the project. Thank You!
